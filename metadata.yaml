@@ -1,0 +1,31 @@
+_repo: Our-Home-and-Personal-Duty_53653
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cook, Edna A.
+    gutenberg_agent_id: '47478'
+    url: http://www.gutenberg.org/2009/agents/47478
+creator:
+  author:
+    agent_name: Fryer, Jane Eayre
+    birthdate: 1876
+    gutenberg_agent_id: '39315'
+    url: http://www.gutenberg.org/2009/agents/39315
+description: ''
+gutenberg_issued: '2016-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53653'
+  lccn: '19002273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Young American Readers
+subjects:
+- !lcsh 'Readers -- United States'
+- !lcsh 'Citizenship -- Problems, exercises, etc.'
+- !lcc 'PE'
+- GITenberg
+title: Our Home and Personal Duty
+url: http://www.gutenberg.org/ebooks/53653
